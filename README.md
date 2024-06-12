@@ -4,11 +4,12 @@
 </p>
 
 ### 🌟 Professional Profile
-I am Ignacio Fernandez, an advanced Systems Engineering student at UTN in Mendoza, Argentina. My academic background and constant interest in software development have led me to specialize in front-end and back-end areas, where I am currently in the process of learning and perfecting my skills.
+I am Ignacio Fernandez, an advanced student in Systems Engineering at UTN in Mendoza, Argentina. My academic journey, coupled with a deep passion for software development, has guided me to specialize in both front-end and back-end technologies. I am currently dedicated to improve my skills and expanding my expertise in these areas.
+
 
 ### 🎓 Academic Background
 **Systems Engineering** | Universidad Tecnologica Nacional (UTN)  
-Currently enrolled in a dynamic program specializing in software development and integrated systems, with a keen focus on staying abreast of the latest advancements and industry trends.
+Engaged in a comprehensive program focused on software development and integrated systems, I am committed to staying updated with the latest technological advancements and industry trends.
 
 ### 💼 Areas of Specialization
 
@@ -29,27 +30,12 @@ Currently enrolled in a dynamic program specializing in software development and
 </table>
 
 ### 🎯 Professional Objectives
-My goal is to develop myself into a full stack developer and work on innovative and challenging projects where I can apply and expand my knowledge of web development technologies. I strive to continuously learn and continually improve my technical and professional skills.
+My goal is to develop myself into a full stack developer and work on innovative and challenging projects where I can apply and expand my knowledge of web development technologies. I strive to continuously learn and continually improve my technical and professional skills. In a few years I will become a graduated software engineer, I can't wait to live that moment and be a professional at my work.
 
 <h3 align="left"> 📫 Contact Me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/matias-almendros-7985b930b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Almendros" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/matialmendros/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vichendallape" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ignacio-fern%C3%A1ndez-4048a41b3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Almendros" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/nachoo_fernandez7/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vichendallape" height="30" width="40" /></a>
 </p>
 
-
-<!--
-**IgnacioFerCosio/IgnacioFerCosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
