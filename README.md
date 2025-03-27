@@ -11,6 +11,10 @@ I am Ignacio Fernandez, an advanced student in Systems Engineering at UTN in Men
 **Systems Engineering** | Universidad Tecnologica Nacional (UTN)  
 Engaged in a comprehensive program focused on software development and integrated systems, I am committed to staying updated with the latest technological advancements and industry trends.
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioFerCosio&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioFerCosio&layout=compact&theme=radical)
+
 ### 💼 Areas of Specialization
 
 #### 🖥️ Front-End Development
