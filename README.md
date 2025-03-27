@@ -35,7 +35,7 @@ My goal is to develop myself into a full stack developer and work on innovative 
 <h3 align="left"> 📫 Contact Me</h3>
 
 <p>
-  <a href="linkedin.com/in/ignacio-fernandez-cosio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Almendros" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ignacio-fernandez-cosio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Almendros" height="30" width="40" /></a>
   <a href="https://www.instagram.com/nachoo_fernandez7/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vichendallape" height="30" width="40" /></a>
 </p>
 
